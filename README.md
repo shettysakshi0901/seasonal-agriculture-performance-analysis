@@ -135,4 +135,3 @@ seasonal-agriculture-performance-analysis/
 ├── README.md
 ├── Seasonal_Agriculture_Performance_Analysis.ipynb
 ├── seasonal_agriculture_performance_dataset.csv
-└── .gitignore
